@@ -1,0 +1,8 @@
+.avs > p{
+    border: thin solid rgb(255, 187, 0);
+    border-width: 5px;
+    margin-top: 0%;
+}
+b{
+    color: red;
+}
